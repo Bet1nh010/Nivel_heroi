@@ -25,7 +25,6 @@ Este projeto é um **classificador de nível de herói** baseado na experiência
 | 9.001 - 10.000    | **Imortal**  | Roxo       |
 | Acima de 10.000   | **Radiante** | Laranja    |
 
-## 📸 Captura de Tela
-![Prévia do projeto](./screenshot.png) <!-- Substitua por um caminho válido da imagem no seu repositório -->
+
 
 
