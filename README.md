@@ -28,7 +28,4 @@ Este projeto é um **classificador de nível de herói** baseado na experiência
 ## 📸 Captura de Tela
 ![Prévia do projeto](./screenshot.png) <!-- Substitua por um caminho válido da imagem no seu repositório -->
 
-## 📥 Como Executar
-1️⃣ Clone este repositório:
-```sh
-git clone https://github.com/seu-usuario/classificador-heroi.git
+
